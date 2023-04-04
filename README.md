@@ -13,7 +13,7 @@ For more information, visit our [website](http://www.connectsdk.com/).
 ## Dependencies
 This project has the following dependencies.
 * [Java-WebSocket library](https://github.com/TooTallNate/Java-WebSocket)
-* [Connect-SDK-Android-Core](https://github.com/ConnectSDK/Connect-SDK-Android-Core) submodule
+* [Connect-SDK-Android-Core](https://github.com/Taewonee-Kim/Connect-SDK-Android-Core) submodule
 
 ## Including Connect SDK in your app with Android Studio
 Edit your project's build.gradle to add this in the "dependencies" section
